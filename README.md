@@ -1,1 +1,1 @@
-# Decision-Trees
+Decision Trees is my official learning towards data science.  This hotel is having some issue on their website and customer's booking.  They want to improve their business and customer service as well as their website servicing.  I helped them analyzed the factor that could help to improve and maximize their profit.  Decision Trees is the best solution for their shorcoming problems.
